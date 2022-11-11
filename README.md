@@ -1,6 +1,9 @@
 # Employee-Data-App
 Python Based project: used tkinter module for frontend, Mongodb for backend(storage). It takes ID, Name, Salary from user and store it in data base, user can change/update his name or salary or delete his data from data base. this app also show top 5 salaried employees graph 
 
+## Validations:
+![app_validations](https://user-images.githubusercontent.com/111215095/201282705-e98f68e3-1409-4404-a139-7c463a30e613.jpg)
+
 ## Code:
 
 ```
@@ -395,3 +398,13 @@ mw.mainloop()
 
 
 ```
+
+## Output:
+![output](https://user-images.githubusercontent.com/111215095/201283272-955752c7-59e8-4a44-b0da-5f5e89af1d29.jpg)
+[1,1] Main Window
+[1,2] Add Window
+[1,3] View Window
+[2,1] Update Window
+[2,2] Delete Window
+[2,3] Charts Window
+
